@@ -1,1 +1,1 @@
-"# Git is easy if you know what to do!"
+# Git is easy if you know what to do!
